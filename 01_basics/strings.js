@@ -27,3 +27,25 @@
 // console.log(gameName.length);
 // console.log(gameName.toUpperCase());
 
+
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+// const name = 'brijesh';
+
+// const nickName = name.substring(0,4);
+
+// console.log(nickName);
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+// const name = "brijesh-singh-thakur";
+
+// console.log(name.split('-'));
+
+
