@@ -83,21 +83,21 @@
 
 
 
-const student = {
+// const student = {
 
-    name: "brijesh thakur",
-    age : 19,
-    email:"brijeshthakurscs123",
+//     name: "brijesh thakur",
+//     age : 19,
+//     email:"brijeshthakurscs123",
     
-    }
+//     }
     
 
 
-    student.age = 20
+//     student.age = 20
     
-Object.freeze(student)
+// Object.freeze(student)
 
-student.age = 21
+// student.age = 21
 
-    console.log(student) ;
+//     console.log(student) ;
   
