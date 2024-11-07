@@ -1,0 +1,35 @@
+// ARRAY IN FOR OF LOOP
+
+
+// array = ["brijesh" , "neha"];
+
+// for (const element of array) {
+    
+//     console.log(element);
+    
+// }
+
+
+////////////////////////////////////////////////////////////////////////
+
+
+// text printing in for of loop
+
+
+// const text = "hello neha how are you doing"
+
+// for (const element of text) {
+    
+// console.log(`text is ${element}`);
+
+
+
+// }
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
