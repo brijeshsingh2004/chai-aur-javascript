@@ -28,7 +28,46 @@
 
 
 
+// BREAK ND CONTINUE IN FOR LOOP
 
 
+// for(let i = 0 ; i<=10; i++){
+
+
+
+// if(i ==5){
+
+// console.log("5 is detected");
+// // break
+// continue
+
+// }
+
+
+// console.log(i);
+
+
+// }
+
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+// ARRAY IN FOR LOOP
+
+
+
+
+// array = ["brijesh" , "neha"];
+
+// for (let index = 0; index < array.length; index++) {
+//     const element = array[index];
+//     console.log(element);
+    
+// }
 
 
